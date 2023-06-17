@@ -1,0 +1,199 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white; 
+    font-weight:600;
+    /* background-color: black; */
+    background-color: #1F1F1F;
+}
+
+.logo{
+    margin-left: 30px;
+}
+
+#login,#explore,#rent{
+    font-family: 'Poppins' , sans-serif; 
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 5px;
+     /* box-shadow: 5px 5px 5px 5px black; */ 
+    padding: 10px;
+    gap: 10px;
+}
+
+header div{
+
+    font-weight: 600;
+    font-size: 30px;
+    margin-right: 70px;
+    margin-left: 0px;
+}
+
+#search, #login , #explore , #rent{
+    padding: 5px;
+    width: 75px;
+    left: 958px;
+    top: 33px;
+    background: #262626;
+    border-radius: 10px;
+}
+
+#login , #explore , #rent{
+    text-align: center; 
+
+}
+
+#search{
+    padding: 10px;
+    border: none;
+    display: flex;
+    width:  597px;
+    color:white;
+} 
+
+#login,#explore,#rent{
+    color: white;
+}
+
+.about{
+    margin-left: 70px;
+    margin-right: 70px;
+    
+    background-color: #262626;
+}
+
+#aboutus{
+    /* font-size:xx-large;
+    margin-left: 20px; */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 72px;
+    margin-left: 30px;
+
+    color: #FFFFFF;
+} 
+
+#p1,#p2,#p3{
+    margin-top: 40px;
+    margin-left: 30px;
+
+    padding-bottom: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #C4C4C4;
+}
+
+.icon-details {
+    display: flex;
+     margin: 10px; 
+}
+
+.clock{
+    padding-bottom: 70px;
+    margin-left: 800px;
+    margin-top: -300px;
+    margin-right: 0px;
+    /* margin-bottom: 200px; */
+    justify-content:center;
+}
+
+.container{
+    display: flex;
+    justify-content:space-evenly;
+    box-sizing: border-box;
+    
+
+}
+
+#pp1,#pp2,#pp3{
+    /* position: absolute; */
+    width: 283px;
+    height: 183px;
+    left: 146px;
+    top: 1054px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.category{
+    margin-left: 90px;
+}
+
+
+.footer{
+    background-color: #262626;
+    display:block;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 0px;
+    /* box-shadow: 5px 5px 5px 5px black; */
+    padding: 10px;
+    gap: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.container2{
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+#ppp1{
+    width: 283px;
+    height: 183px;
+    left: 146px;
+    top: 1054px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    
+    color: rgba(255, 255, 255, 0.8);
+}
+
+li{
+    width: 283px;
+    /* height: 183px; */
+    left: 146px;
+    top: 1054px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    /* line-height: 22px; */
+    
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer div h2{
+    margin-left: 40px;
+}
+
+#gaming,#electronics,#clothes{
+    border-radius: 8px;
+    border: 3px solid #262626;
+     margin: 10px; 
+     padding: 10px; 
+}
